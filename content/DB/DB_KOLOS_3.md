@@ -1,0 +1,4 @@
+- ddl/dml scenariusze
+- procedury
+- indexy / optymalizacje
+- transakcje

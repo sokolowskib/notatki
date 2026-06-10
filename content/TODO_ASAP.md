@@ -1,0 +1,3 @@
+- pjob slajd 3,4
+- pjob tcp
+- asdy
