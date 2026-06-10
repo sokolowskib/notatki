@@ -1,17 +1,17 @@
 zabawa z flex boxami
 
-![[wp01.png]]
+![[pwsg/wp01.png]]
 
-![[wp02.png]]
+![[pwsg/wp02.png]]
 
-![[wp03.png]]
+![[pwsg/wp03.png]]
 
-![[wp04.png]]
+![[pwsg/wp04.png]]
 
-![[wp05.png]]
+![[pwsg/wp05.png]]
 
-![[wp06.png]]
+![[pwsg/wp06.png]]
 
-![[wp07.png]]
+![[pwsg/wp07.png]]
 
-![[wp08.png]]
+![[pwsg/wp08.png]]

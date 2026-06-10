@@ -1,4 +1,3 @@
-
 wzorzec, który pozwala przekazywać obsługę operacji do następnych handlerów;
 
 Jeśli umiesz obsłuzyc => robisz

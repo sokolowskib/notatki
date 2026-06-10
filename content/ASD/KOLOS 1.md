@@ -1,5 +1,5 @@
-Zakres materiału: 
-	- programowanie  dynamiczne
-	- reprezentacja grafów
-	- Algorytmy znajdujace najkrótsze ścieżki
-	- Przepływy
+Zakres materiału:
+\- programowanie  dynamiczne
+\- reprezentacja grafów
+\- Algorytmy znajdujace najkrótsze ścieżki
+\- Przepływy

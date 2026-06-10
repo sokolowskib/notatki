@@ -14,5 +14,3 @@ stateDiagram-v2
     Odrzucony --> [*]
     Wykorzystany --> [*]
 ```
-
-

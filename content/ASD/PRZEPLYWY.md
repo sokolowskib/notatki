@@ -10,19 +10,17 @@
 9: zwróć f jako wynik
 ```
 
-
 zad.2
 instancja problemu wykonana w czasie T, a kazda krawedz ma k-krotny podpodzial
 
 1  =====> 1-2-3....-k
 
-a) (k+1) * T, ilosc krawedzi faktycznie sie zwieksza wiec przez kazda krawedz przechodzil ford fulkerson.
-b) O(f_max * m), ale reszta w sciezce rezydualnej zwieksza sie tez k-krotnie, wiec taka sama zlozonosc. Taki sam czas
+a) (k+1) \* T, ilosc krawedzi faktycznie sie zwieksza wiec przez kazda krawedz przechodzil ford fulkerson.
+b) O(f\_max \* m), ale reszta w sciezce rezydualnej zwieksza sie tez k-krotnie, wiec taka sama zlozonosc. Taki sam czas
 
-
-![[Pasted image 20260325172743.png]]
-Menger ale z wersja forda fulkersona, v to s, w to t, 
-max zbior wewnetrznie rozlacznych sciezek v-w to minimalny v-w separator. 
+![[obrazki/Pasted image 20260325172743.png]]
+Menger ale z wersja forda fulkersona, v to s, w to t,
+max zbior wewnetrznie rozlacznych sciezek v-w to minimalny v-w separator.
 kroki:
-	- 
-	-
+\-
+-

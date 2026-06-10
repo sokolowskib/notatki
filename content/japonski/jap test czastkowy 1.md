@@ -2,6 +2,4 @@
 -slowka
 -partykuly
 
-
 Misja hiragana
-

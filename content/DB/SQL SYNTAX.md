@@ -10,4 +10,3 @@ full join
 		having count (*) - distinct
 		order by
 ```
-
