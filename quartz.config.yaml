@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: syzyf.github.io
+  baseUrl: notatki.pages.dev
   ignorePatterns:
     - private
     - templates
