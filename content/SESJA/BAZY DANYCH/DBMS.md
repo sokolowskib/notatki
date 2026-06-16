@@ -14,3 +14,16 @@ Profesjonalne programy DBMS oferują jeszcze bezpieczeństwo bazy danych, wysok�
 
 **Management studio** - np. DataGrip, pozwala na pisanie skryptów SQL modyfikujących bazę lub pozyskującą z niej dane
 **Business applications** - aplikacje, które komunikują się z bazą danych, ale na poziomie niejawnym, użytkownik nie widzi tego
+
+## Sposoby kategoryzacji DBMS
+
+![[obrazki/Pasted image 20260615172626.png]]
+
+Sposób zarządzania danymi:
+
+1. embedded w aplikacje
+2. serwer
+   Sposób traktowania danych?:
+3. bazy relacyjne
+4. bazy obiektowe
+5. bazy dokumentowe

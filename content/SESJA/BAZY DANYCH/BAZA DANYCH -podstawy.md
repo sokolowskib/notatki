@@ -21,3 +21,7 @@ Przechowywane są tylko fakty pozytywne -> w tabeli o pokojach w hotelu będą p
 
 Logiczne połączenie między dwoma tabelami, np.: wspólna kolumna.
 Może też odnosić się do fizycznej tabeli w bazie danych. Więcej: [[Relacyjne bazy danych]]
+
+## Czemu bazy danych?
+
+![[obrazki/Pasted image 20260615172351.png]]

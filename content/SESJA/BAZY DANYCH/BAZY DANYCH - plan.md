@@ -4,4 +4,11 @@
 4. [[Etapy Normalizacji]]
 5. [[Spójność danych]]
 6. [[Diagramy relacyjne]] i [[Modele danych]]
-7.
+7. [[SQL - select]] i [[Wykorzystanie SQL]]
+8. [[DML]]
+9. [[Transakcje]]
+10. [[Indexy i plan wykonania]]
+11. [[JDBC]]
+12. [[DOTNET]]
+13. [[Problemy ze współbieżnością]]
+14. [[Procedury]]
