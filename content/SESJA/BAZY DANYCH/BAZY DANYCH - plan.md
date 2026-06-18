@@ -12,3 +12,12 @@
 12. [[DOTNET]]
 13. [[Problemy ze współbieżnością]]
 14. [[Procedury]]
+15. [[Architektura systemowa]]
+16. [[Hurtownie danych]]
+17. [[BIG DATA]] :O
+18. [[NoSQL]]
+19. [[Oracle_net]]
+20. [[Oracle Security]]
+21. [[GIS]]
+22. [[Bazy wektorowe]]
+23. [[Oracle Storage]]
