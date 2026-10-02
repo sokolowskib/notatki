@@ -1,0 +1,1 @@
+- [ ] powtórz zbieżności ciągu zmiennych losowych
